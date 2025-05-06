@@ -1,4 +1,4 @@
 Empno,Name,Class
 101,Shyam,MCA
-102,Usha,B.Tech
+102,Usha,BTech
 103,Sona,First
